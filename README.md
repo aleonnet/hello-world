@@ -1,2 +1,2 @@
 # hello-world
-short description comes in here
+Now this is really the short description to commit...
